@@ -7,7 +7,7 @@ The objectives of building a dashboard was to build visuals that explain:
 3. Customer insights.
 4. Inventory insights.
 
-## ools Used
+## Tools Used
 1. Power BI
 2. Data Cleaning Techniques
 3. Data Modeling
